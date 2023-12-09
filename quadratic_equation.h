@@ -1,4 +1,5 @@
 #pragma once
 #include <vector>
+#include <string>
 
-std::vector<double> solve(int a, int b, int c);
+std::vector<std::string> solve(double a, double b, double c);
